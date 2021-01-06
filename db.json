@@ -1,0 +1,105 @@
+{
+    "products": [{
+            "id": 10,
+            "subject": "Physics",
+            "uploader": "Abdurehman Aziz",
+            "grade": "Highschool",
+            "title": "Chapter 01: Physics",
+            "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
+            "type": "Notes & Slides",
+            "dpURL": "https://via.placeholder.com/200"
+        },
+        {
+            "id": 11,
+            "subject": "Chemistry",
+            "uploader": "Aabirah Kareem",
+            "grade": "College",
+            "title": "Section C: Organic Chemistry",
+            "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatu",
+            "type": "Notes & Slides",
+            "dpURL": "https://via.placeholder.com/200"
+        },
+        {
+            "id": 12,
+            "subject": "Mathematics",
+            "uploader": "Aaban Sami",
+            "grade": "Middle School",
+            "title": "Chapter 15: Metrices",
+            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+            "type": "Notes & Slides",
+            "dpURL": "https://via.placeholder.com/200"
+        },
+        {
+            "id": 13,
+            "subject": "Socialogy",
+            "uploader": "Aabid Shams",
+            "grade": "Post Graduation",
+            "title": "Maxism & Economics",
+            "description": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+            "type": "Notes & Slides",
+            "dpURL": "https://via.placeholder.com/200"
+        },
+        {
+            "id": 14,
+            "subject": "Biology",
+            "uploader": "Aahil Akhs",
+            "grade": "College",
+            "title": "Chapter 12: Heart and Cardiac System",
+            "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.",
+            "type": "Notes & Slides",
+            "dpURL": "https://via.placeholder.com/200"
+        },
+        {
+            "id": 15,
+            "subject": "Language",
+            "uploader": "Anis Yaseen",
+            "grade": "College",
+            "title": "Section B: Metaphors",
+            "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.",
+            "type": "Videos",
+            "dpURL": "https://via.placeholder.com/200"
+        },
+        {
+            "id": 16,
+            "subject": "Mathematics",
+            "uploader": "Arif Akhter",
+            "grade": "Highschool",
+            "title": "Vecotrs",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.",
+            "type": "Notes & Slides",
+            "dpURL": "https://via.placeholder.com/200"
+        },
+        {
+            "id": 17,
+            "subject": "Physics",
+            "uploader": "Abdurehman Aziz",
+            "grade": "College",
+            "title": "Chapter 02: Electronics",
+            "description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+            "type": "Notes & Slides",
+            "dpURL": "https://via.placeholder.com/200"
+        },
+        {
+            "id": 18,
+            "subject": "Chemistry",
+            "uploader": "Amir Habib",
+            "grade": "College",
+            "title": "Chapter 10: Compounds",
+            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+            "type": "Archive",
+            "dpURL": "https://via.placeholder.com/200"
+        },
+        {
+            "id": 19,
+            "subject": "Language",
+            "uploader": "Shafaq Abdullah",
+            "grade": "Middle School",
+            "title": "Nouns",
+            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "type": "Videos",
+            "dpURL": "https://via.placeholder.com/200"
+        }
+
+
+    ]
+}
